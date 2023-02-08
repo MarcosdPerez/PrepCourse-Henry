@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 de Henry
+esta fue una prueba de como clonar un repositorio a mi escritorio
